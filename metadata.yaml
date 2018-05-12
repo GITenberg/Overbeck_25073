@@ -1,0 +1,27 @@
+_repo: Overbeck_25073
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25073-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Atkinson, J. Beavington
+    alias: Atkinson, Joseph Beavington
+    birthdate: 1822
+    deathdate: 1886
+    gutenberg_agent_id: '28386'
+    url: http://www.gutenberg.org/2009/agents/28386
+description: ''
+gutenberg_issued: '2008-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Overbeck, Johann Friedrich, 1789-1869'
+- !lcc 'ND'
+title: Overbeck
+url: http://www.gutenberg.org/ebooks/25073
